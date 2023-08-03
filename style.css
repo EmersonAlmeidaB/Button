@@ -14,7 +14,7 @@ section h1 {
 
 .colors {
     display: flex;
-    background-color: aqua;
+    background-color: rgb(255, 0, 191);
     justify-content: space-between;
     
 }
