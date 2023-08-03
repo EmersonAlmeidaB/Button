@@ -1,0 +1,20 @@
+
+
+
+
+
+
+section h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+
+
+
+.colors {
+    display: flex;
+    background-color: aqua;
+    justify-content: space-between;
+    
+}
